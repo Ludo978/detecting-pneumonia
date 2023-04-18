@@ -1,0 +1,3 @@
+# Detecting pneumonia from chest X-rays
+
+This is a project I made for my master's degree. It is a convolutional neural network that detects pneumonia from chest X-rays. I used tensorflow and keras to build the model. The dataset I used is the [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dataset from Kaggle. The model is trained on 5216 images and tested on 624 images.
